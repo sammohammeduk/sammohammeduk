@@ -1,7 +1,7 @@
 - 👋 Hi, I’m @sammohammeduk, but you can call me Sam.
-- 👀 I’m interested in ... Data, Databases, Data Integration, Data Migration, you get the idea...
-- 🌱 I’m currently learning ... GraphQL.
-- 💞️ I’m looking to collaborate on ... Graph Database and Data Integration Projects.
+- 👀 I’m interested in ... Databases, Data, Data Architecture, Data Integration, Data Migration, you get the idea...
+- 🌱 I’m currently working with AWS Glue & AWS Redshift.
+- 💞️ I’m looking to collaborate on ... new data related projects.
 - 📫 How to reach me ... https://www.sammohammed.uk
 
 <!---
